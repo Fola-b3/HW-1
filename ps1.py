@@ -7,7 +7,7 @@ Created on Fri Sep  5 15:04:01 2025
 """
 
 
- #Problem Set 1 # Name: Olamide Afolabi
+ #Data visulization hw one changes # Name: Olamide Afolabi
 
 # Collaborators: None # Time Spent: 1:45
 
