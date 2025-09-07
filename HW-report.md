@@ -21,13 +21,17 @@ If you do not see the update loccaly, you might have missed running the push com
 
 ### Q1 - Bulleted List
 
-Insert your answer and explanation here
-
+- ITEMS
+- ATTRIBUTES
+- LINKS
+- POSITIONS
+  
 ### Q2 - Markdown Paragraph
 
-Insert your answer and explanation here
+What is ***Data Abstarction****. Three ___operations___ translate from __*domain specific visualization language*__ to **_generic visulization language_**
 
 ### Q3 - Animal Image
+![This is my brothers dod, hisname is TJ.] (data scie pro.jpg)
 
 Insert your answer and explanation here
 
