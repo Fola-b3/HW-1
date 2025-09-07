@@ -45,8 +45,7 @@ Insert your answer and explanation here
 
 ### Q1 - URL of Google Colab Notebook
 
-[Insert your answer and explanation here
-](https://colab.research.google.com/drive/1b3OtTPLZIkZWL16T9XL_pQolMWFtM2jQ?usp=drive_link)
+(https://colab.research.google.com/drive/1b3OtTPLZIkZWL16T9XL_pQolMWFtM2jQ?usp=drive_link)
 
 ## Python/Seaborn
 
