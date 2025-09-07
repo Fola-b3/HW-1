@@ -32,6 +32,9 @@ What is ***Data Abstarction****. Three ___operations___ translate from __*domain
 
 ### Q3 - Animal Image
 ![This is my brothers dod, hisname is TJ.] (tj.jpg)
+<img src="tj.jpg" height="100" alt="This is a picture of my dog.">
+
+
 
 - Initially the image name had some spaces in it, i was confused as to why it did not show up, i went back to the instructions and saw your notes.
 ## Tableau
