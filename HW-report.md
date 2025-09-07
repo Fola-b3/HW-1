@@ -6,7 +6,7 @@ Due: September 7, 2025
 ## Git, GitHub
 
 Q1. What is the URL of the new GitHub repo that you created in your personal account? (not your class repo)
-(https://github.com/Fola-b3/HW-1.git) This is the url of the repo i created and clone locally, i also made chages to one of the files locally and made changes to the other online.
+(https://github.com/Fola-b3/HW-1.git) This is the url of the repo i created and clone locally, i also made chages to one of the files locally and made changes to the other online. 
 
 
 Q2. In which direction does the 'pull' command work (does it send local changes to remote OR send remote changes to local)?
@@ -31,10 +31,9 @@ If you do not see the update loccaly, you might have missed running the push com
 What is ***Data Abstarction****. Three ___operations___ translate from __*domain specific visualization language*__ to **_generic visulization language_**
 
 ### Q3 - Animal Image
-![This is my brothers dod, hisname is TJ.] (data scie pro.jpg)
+![This is my brothers dod, hisname is TJ.] (tj.jpg)
 
-Insert your answer and explanation here
-
+- Initially the image name had some spaces in it, i was confused as to why it did not show up, i went back to the instructions and saw your notes.
 ## Tableau
 
 ### Q1 - Region Other Than the South
