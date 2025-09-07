@@ -28,7 +28,7 @@ If you do not see the update loccaly, you might have missed running the push com
   
 ### Q2 - Markdown Paragraph
 
-What is ***Data Abstarction****. Three ___operations___ translate from __*domain specific visualization language*__ to **_generic visulization language_**
+What is ***Data Abstraction****. Three ___operations___ translate from __*domain specific visualization language*__ to **_generic visulization language_**
 
 ### Q3 - Animal Image
 <img src="tj.jpg" height="100" alt="This is my brothers dod, hisname is TJ">
@@ -39,7 +39,7 @@ What is ***Data Abstarction****. Three ___operations___ translate from __*domain
 
 ### Q1 - Region Other Than the South
 
-Insert your answer and explanation here
+<img src="Salesincentral.png" height="300" alt="Tableau chart">
 
 ## Google Colab
 
