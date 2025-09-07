@@ -31,12 +31,10 @@ If you do not see the update loccaly, you might have missed running the push com
 What is ***Data Abstarction****. Three ___operations___ translate from __*domain specific visualization language*__ to **_generic visulization language_**
 
 ### Q3 - Animal Image
-![This is my brothers dod, hisname is TJ.] (tj.jpg)
-<img src="tj.jpg" height="100" alt="This is a picture of my dog.">
+<img src="tj.jpg" height="100" alt="This is my brothers dod, hisname is TJ">
+- Initially the image name had some spaces in it, i was confused as to why it did not show up, i went back to the instructions and saw your notes, then i took out the spaces, still it did not comeup, finally i tried the html syntax format and the picture was displayed.
 
 
-
-- Initially the image name had some spaces in it, i was confused as to why it did not show up, i went back to the instructions and saw your notes.
 ## Tableau
 
 ### Q1 - Region Other Than the South
